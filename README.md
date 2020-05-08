@@ -1,5 +1,9 @@
 # Goopter Report
 
+# Video demo
+
+https://photos.app.goo.gl/QVDDNohUmuePMVzYA
+
 ## Source code overview:
 
 The basic project flow is as follows:
